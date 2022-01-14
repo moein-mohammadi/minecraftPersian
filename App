@@ -1,13 +1,13 @@
 [
   {
-    "text": "آموزش ساخت فروشگاه لباس",
+    "text": "🤔آموزش ساخت فروشگاه لباس",
     "image": "https://s4.uupload.ir/files/videocapture_۲۰۲۲۰۱۱۴-۲۲۱۹۵۴_yfkc.jpg",
     "video": "https://aspb35.cdn.asset.aparat.com/aparat-video/d2e1338e486f8d52b4b49667d3ab080c34276096-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ3OTllMTFmOTZjNTUyNTBhNjhhYzQ0ZmE4N2Q3ZDQ0IiwiZXhwIjoxNjQyMTg3MzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-b3LgK0dS0P0X1hmH36Ngyrg01BuV2ka7r6mz01ALBM",
     "text2": "امیدوارم لذت کافی را ببرید"
   },
   {
-    "text": "آموزش ساخت اتاق گیمینگ",
-    "image": "https://s4.uupload.ir/files/screenshot_۲۰۲۲۰۱۱۴-۲۲۵۸۴۷_samsung_internet_385y.jpg",
+    "text": "😁آموزش ساخت اتاق گیمینگ",
+    "image": "https://s2.uupload.ir/files/93ho_img_20210323_164123_016.jpg",
     "video": "https://aspb36.cdn.asset.aparat.com/aparat-video/bf225cb453bfdebbd79b64b91622dfc136001483-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
     "text2": "امیدوارم لذت کافی را ببرید"
   }
