@@ -12,9 +12,9 @@
     "text2": "امیدوارم لذت کافی را ببرید"
   },
   {
-    "text": "آموزش ساخت اتاق گیمینگ",
-    "image": "https://s4.uupload.ir/files/screenshot_۲۰۲۲۰۱۱۴-۲۲۵۸۴۷_samsung_internet_385y.jpg",
-    "video": "https://aspb36.cdn.asset.aparat.com/aparat-video/bf225cb453bfdebbd79b64b91622dfc136001483-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
+    "text": "آموزش ساخت اتاق نشیمن بسیار زیبا و مدرن در ماینکرافت",
+    "image": "https://up.20script.ir/file/f557-Screenshot-۲۰۲۲۰۱۱۴-۲۳۳۳۵۶-Samsung-Internet.jpg",
+    "video": "https://aspb32.cdn.asset.aparat.com/aparat-video/e4a1b72e3078256babfc18c37dadbceb36259428-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJlNDg4ZDdiOTc1OWU3M2E3ZDYwYzJmMTQ5ZjVjZTdjIiwiZXhwIjoxNjQyMjA4NTM3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zZSJrteL6atRTXzfmiX_5aUracuHUTRZx4Y1tO9k9gQ\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
     "text2": "امیدوارم لذت کافی را ببرید"
   }
 ]
