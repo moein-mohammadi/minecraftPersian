@@ -1,7 +1,7 @@
 [
   {
     "text": "آموزش ساخت فروشگاه لباس",
-    "image": "https://s4.uupload.ir/files/videocapture_۲۰۲۲۰۱۱۴-۲۲۱۹۵۴_yfkc.jpg",
+    "image": "https://up.20script.ir/file/0947-VideoCapture-۲۰۲۲۰۱۱۴-۲۲۱۹۵۴.jpg",
     "video": "https://aspb35.cdn.asset.aparat.com/aparat-video/d2e1338e486f8d52b4b49667d3ab080c34276096-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ3OTllMTFmOTZjNTUyNTBhNjhhYzQ0ZmE4N2Q3ZDQ0IiwiZXhwIjoxNjQyMTg3MzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-b3LgK0dS0P0X1hmH36Ngyrg01BuV2ka7r6mz01ALBM",
     "text2": "امیدوارم لذت کافی را ببرید"
   },
