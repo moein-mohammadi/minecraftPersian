@@ -1,62 +1,14 @@
 [
   {
-    "text": "آموزش چندتا شدن ",
-    "image": "https://s4.uupload.ir/files/videocapture_۲۰۲۱۰۵۲۶-۱۲۲۶۰۷_qwr.jpg",
-    "video": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/e399e25b0a5198ad7b4ee077189b82ab33758949-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRmYmI4MjkyMGM0YzEyYWJmMTNmMGJhNDlhMTgwZjIyIiwiZXhwIjoxNjIyMDMzNzE0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tuPqMVTrBAvia1Owb8ew7AuPEyZdwoTAVIHGNcKWwfo",
-    "text2": "به دلیل حجم زیاد،ویدئو را با کیفیت پایین آپلود کردم "
+    "text": "آموزش ساخت فروشگاه لباس",
+    "image": "https://s4.uupload.ir/files/videocapture_۲۰۲۲۰۱۱۴-۲۲۱۹۵۴_yfkc.jpg",
+    "video": "https://aspb35.cdn.asset.aparat.com/aparat-video/d2e1338e486f8d52b4b49667d3ab080c34276096-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ3OTllMTFmOTZjNTUyNTBhNjhhYzQ0ZmE4N2Q3ZDQ0IiwiZXhwIjoxNjQyMTg3MzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-b3LgK0dS0P0X1hmH36Ngyrg01BuV2ka7r6mz01ALBM",
+    "text2": "امیدوارم لذت کافی را ببرید"
   },
   {
-    "text": "آموزش ساخت شخصیت کارتونی خودمون و ساخت پروفایل جذاب",
-    "image": "https://s4.uupload.ir/files/capture_2021-04-22_02.49.00_l2hb.jpg",
-    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/079618c36d7942842afa0898dc8ef6da33563673-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjMxODJhYzI5NDdmNjkwMzQ2MzVlN2IxODQxOTQ1ZThiIiwiZXhwIjoxNjIyMDM0MjI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.om-xuBeNa2FilUH-qkubVl-gEIYhwZLqv8QaFMgv9hE",
-    "text2": "نرم افزار مورد نیاز (Toon Me)"
-  },
-  {
-    "text": "آموزش ساخت پروفایل حرفه ای",
-    "image": "https://uupload.ir/files/b0wh_img_20210323_164254_674.jpg",
-    "video": "https://aspb19.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJjN2NiZmYwZGJmYWJiNjRkMDYyNjU3Mjk0MzNjNGZjIiwiZXhwIjoxNjE5ODk0NjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LAGvPPFvQXBETOiQVmDrhm4avHlZ9Q3mYUCfr3EKzII",
-    "text2": "قسمت ۴"
-  },
-  {
-    "text": "آموزش گذاشتن‌پست پازلی",
-    "image": "https://uupload.ir/files/q7el_img_20210323_164256_655.jpg",
-    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjUxOTViMmRjMGUzOTU3YzJjYTlhY2E0YTc4MjAzN2RiIiwiZXhwIjoxNjE5ODk0NzM1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VYbkUSacjaNdityVIaJhfI6nUH4M60ip9v_vuPYsJUs",
-    "text2": "امیدوارم از این آموزش لذت برده باشید"
-  },
-  {
-    "text": "آموزش تغییر رنگ چشم",
-    "image": "https://uupload.ir/files/ba0_img_20210323_164306_724.jpg",
-    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/f9e455d8e34f743aba31f64d79503d8530896743-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQyOTNiODc1NGM1ODAxZTJiYjU0OGEyNTcwNjA1MmE5IiwiZXhwIjoxNjE2NzA1MTc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.aOL4UfdBJJLXXO2H5hLLoIF5SciGsfCme8u5obk3IDc",
-    "text2": "با برنامه فتوشاپ"
-  },
-  {
-    "text": "آموزش ساخت زیلینک",
-    "image": "https://uupload.ir/files/enuq_img_20210323_164238_539.jpg",
-    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/02f50b0a63184e35667791791c0adebf30406460-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcwMjQ2YmJlMTYzZGIwZTQ0OTA5Yzg1YTQ4ZTEzYjhjIiwiZXhwIjoxNjE2NzA1MjU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.q9Sp2sckGji_LPh-daUKhy9ymhmS3LjZWgWGrKl03Eg",
-    "text2": "www.zil.ink"
-  },
-  {
-    "text": "حذف اشیا اضافه در عکس",
-    "image": "https://uupload.ir/files/uzrf_img_20210323_164208_072.jpg",
-    "video": "https://aspb20.cdn.asset.aparat.com/aparat-video/7705421a7bc1490acbf7f360b9c37afa29621351-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjdmY2QwMGQwNmU2NDQxMmEwZGZlZDViNjE0YzJiNDQ2IiwiZXhwIjoxNjE2NzA1NDM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iNqYzImSDhpZelWCttEdFbSpps3AYNlUsO4eZ6pQ2uc",
-    "text2": "با نرم افزار پیکس آرت"
-  },
-  {
-    "text": "متن با ویدئو ترکیپ کن",
-    "image": "https://uupload.ir/files/s25j_img_20210323_164233_219.jpg",
-    "video": "https://aspb22.cdn.asset.aparat.com/aparat-video/155bcdb5c326a4ca3d33746a9ca4211c29619495-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3ODkxZjkyODA1NTczZjYyMGY0ODcxZDBkZDkyMjgwIiwiZXhwIjoxNjE2NzA2NDM3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hcsmG1t0zcNsjeg-UuqGI4UQEEoLUX9qcwiCPwA6qnA",
-    "text2": "با کاین مستر"
-  },
-  {
-    "text": "ساخت ویدئو گذر زمان",
-    "image": "https://uupload.ir/files/1cpd_img_20210323_164218_384.jpg",
-    "video": "https://aspb21.cdn.asset.aparat.com/aparat-video/a47e8896dd9e49602dff1144efe3378829619309-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlZWYxMWIyYmFiM2NmMGNkMGMyM2YzYWI3OGZiMDU2IiwiZXhwIjoxNjE2NzA2NzE0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tboCKrZlNlcK2v29Y61krA04wiTD8xZa2MSTsfjcfbk",
-    "text2": "امید وارم خوشتان آمده باشه"
-  },
-  {
-    "text": "طراحی کارت ویزیت و قرار دادن در موکاپ",
-    "image": "https://uupload.ir/files/93ho_img_20210323_164123_016.jpg",
-    "video": "https://aspb26.cdn.asset.aparat.com/aparat-video/173f7e62af5376291618e06828d58da228286559-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjMzNDk1MGE4NDFkYTJmMTQzMTM2ZTIzZTUxYjJlZGZiIiwiZXhwIjoxNjE2NzA2OTIzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uGS4Dus4mxmT03lcD3R8UFvVehqSk4flsiV5vwAY-ms",
-    "text2": "با ادوبی فتوشاپ "
+    "text": "آموزش ساخت اتاق گیمینگ",
+    "image": "https://s4.uupload.ir/files/screenshot_۲۰۲۲۰۱۱۴-۲۲۵۸۴۷_samsung_internet_385y.jpg",
+    "video": "https://aspb36.cdn.asset.aparat.com/aparat-video/bf225cb453bfdebbd79b64b91622dfc136001483-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
+    "text2": "امیدوارم لذت کافی را ببرید"
   }
 ]
