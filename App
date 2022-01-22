@@ -1,6 +1,6 @@
 [
   {
-    "text": "آموزش ساخت موشک",
+    "text": "آموزش ساخت موشک واقعی",
     "image": "https://up.20script.ir/file/1a3a-Capture-2022-01-22-16-15-42.jpg",
     "video": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/1933504ef0edbf155cfd189e2b9ff2d241756845-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVhMjY0YjllNTBlMjJkMzY3NjExZDI3OGY2ZmJiY2NkIiwiZXhwIjoxNjQyOTA1MDIxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.sTy5jsqmX5LNFlQy_rufiSue7OYj2UMTbnSrTKpp-28",
     "text2": "ضبط شده توسط اپلیکیشن ماینکرافت پرشین"
