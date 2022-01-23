@@ -14,7 +14,7 @@
   {
     "text": "آموزش ساخت خانه مرغی",
     "image": "https://up.20script.ir/file/7947-Screenshot-%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B1%DB%B1%DB%B7-%DB%B1%DB%B9%DB%B0%DB%B2%DB%B0%DB%B9-Samsung-Internet.jpg",
-    "video": "https://www.aparat.com/v/iR76c",
+    "video": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/77403b60a446975f075d67206e41d98041601151-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM5YTdjODdhZDkxOGNiOGY0YjgyNzljNDllYmU1YzRjIiwiZXhwIjoxNjQyOTMxMzAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YzJG_4EUKQx7e4YFsCOnS9-5sjL2AGOOcT7ucoPx5f0",
     "text2": "🤣🤣😆"
   },
   {
