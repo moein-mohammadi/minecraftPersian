@@ -28,23 +28,5 @@
     "image": "https://up.20script.ir/file/5f47-Screenshot-%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B1%DB%B1%DB%B7-%DB%B1%DB%B9%DB%B2%DB%B7%DB%B5%DB%B0-Samsung-Internet.jpg",
     "video": "\u003cdiv id\u003d\"15631534764\"\u003e\u003cscript type\u003d\"text/JavaScript\" src\u003d\"https://www.aparat.com/embed/YQuHp?data[rnddiv]\u003d15631534764\u0026data[responsive]\u003dyes\"\u003e\u003c/script\u003e\u003c/div\u003e",
     "text2": "امیدوارم لذت کافی را ببرید"
-  },
-  {
-    "text": "آموزش ساخت فروشگاه لباس",
-    "image": "https://up.20script.ir/file/0947-VideoCapture-۲۰۲۲۰۱۱۴-۲۲۱۹۵۴.jpg",
-    "video": "https://aspb35.cdn.asset.aparat.com/aparat-video/d2e1338e486f8d52b4b49667d3ab080c34276096-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ3OTllMTFmOTZjNTUyNTBhNjhhYzQ0ZmE4N2Q3ZDQ0IiwiZXhwIjoxNjQyMTg3MzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-b3LgK0dS0P0X1hmH36Ngyrg01BuV2ka7r6mz01ALBM",
-    "text2": "امیدوارم لذت کافی را ببرید"
-  },
-  {
-    "text": "آموزش ساخت اتاق گیمینگ",
-    "image": "https://up.20script.ir/file/d838-Screenshot-۲۰۲۲۰۱۱۴-۲۲۵۸۴۷-Samsung-Internet.jpg",
-    "video": "https://aspb36.cdn.asset.aparat.com/aparat-video/bf225cb453bfdebbd79b64b91622dfc136001483-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
-    "text2": "امیدوارم لذت کافی را ببرید"
-  },
-  {
-    "text": "آموزش ساخت اتاق نشیمن بسیار زیبا و مدرن در ماینکرافت",
-    "image": "https://up.20script.ir/file/f557-Screenshot-۲۰۲۲۰۱۱۴-۲۳۳۳۵۶-Samsung-Internet.jpg",
-    "video": "https://aspb32.cdn.asset.aparat.com/aparat-video/e4a1b72e3078256babfc18c37dadbceb36259428-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJlNDg4ZDdiOTc1OWU3M2E3ZDYwYzJmMTQ5ZjVjZTdjIiwiZXhwIjoxNjQyMjA4NTM3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zZSJrteL6atRTXzfmiX_5aUracuHUTRZx4Y1tO9k9gQ\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3OTJjNDEyNjIyZDkyMjIxMmFjZGZhYTllN2FkOTAzIiwiZXhwIjoxNjQyMjA2MzIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rKSG5TLN6gwGnlbwSmOHG7RsFz1YJb2h6mfDEw5eRAc",
-    "text2": "امیدوارم لذت کافی را ببرید"
   }
 ]
