@@ -2,7 +2,7 @@
   {
     "text": "آموزش ساخت موشک واقعی",
     "image": "https://up.20script.ir/file/1a3a-Capture-2022-01-22-16-15-42.jpg",
-    "video": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/1933504ef0edbf155cfd189e2b9ff2d241756845-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY1YmJiZGU5NTAxODczYTk5ZWJjNGI5NDg5N2IxN2VjIiwiZXhwIjoxNjQyOTYwOTY0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.DVecc6Wx5O-yGOmb9qSuPmuT3Cp-Dr4sii9wBE1gjBY",
+    "video": "\u003cdiv id\u003d\"17347068089\"\u003e\u003cscript type\u003d\"text/JavaScript\" src\u003d\"https://www.aparat.com/embed/EDGTP?data[rnddiv]\u003d17347068089\u0026data[responsive]\u003dyes\"\u003e\u003c/script\u003e\u003c/div\u003e",
     "text2": "ضبط شده توسط اپلیکیشن ماینکرافت پرشین"
   },
   {
