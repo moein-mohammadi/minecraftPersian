@@ -1,6 +1,6 @@
 [
   {
-    "text": " ساخت موشک واقعی",
+    "text": "آموزش ساخت موشک واقعی",
     "image": "https://up.20script.ir/file/1a3a-Capture-2022-01-22-16-15-42.jpg",
     "video": "\u003cdiv id\u003d\"17347068089\"\u003e\u003cscript type\u003d\"text/JavaScript\" src\u003d\"https://www.aparat.com/embed/EDGTP?data[rnddiv]\u003d17347068089\u0026data[responsive]\u003dyes\"\u003e\u003c/script\u003e\u003c/div\u003e",
     "text2": "ضبط شده توسط اپلیکیشن ماینکرافت پرشین"
@@ -8,13 +8,13 @@
   {
     "text": "آموزش ساخت خانه خفن",
     "image": "https://up.20script.ir/file/484f-VideoCapture-%DB%B2%DB%B0%DB%B2%DB%B1%DB%B1%DB%B1%DB%B0%DB%B7-%DB%B2%DB%B0%DB%B3%DB%B2%DB%B1%DB%B9.jpg",
-    "video": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/6063f27f93ec20001475717bf3ac6e6541580325-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI2NTM0Y2JhOWQzYWI5ODBmNTg0NzEwYmQ0Mjk0YWNjIiwiZXhwIjoxNjQyOTYxMDUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jC6Kq0eHcMf2e-ffY7mOFW3oHcIngjTaErM3oFKSqq4",
+    "video": "\u003camp-iframe width\u003d\"640\" height\u003d\"360\" sandbox\u003d\"allow-scripts allow-same-origin\" layout\u003d\"responsive\" frameborder\u003d\"0\" src\u003d\"https://www.aparat.com/video/video/embed/videohash/YQuHp/vt/frame?isamp\"\u003e\u003c/amp-iframe\u003e",
     "text2": "خیلی حرفه ای!"
   },
   {
     "text": "آموزش ساخت خانه مرغی",
     "image": "https://up.20script.ir/file/7947-Screenshot-%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B1%DB%B1%DB%B7-%DB%B1%DB%B9%DB%B0%DB%B2%DB%B0%DB%B9-Samsung-Internet.jpg",
-    "video": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/77403b60a446975f075d67206e41d98041601151-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA3YTg5YjVkZGY5NjMwZTcyOWZkZTNiMmFjOTkyOTZkIiwiZXhwIjoxNjQyOTYxMTE4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.plXkRIEpL-jDyNux2VqqYgKxBBi2K6RskfzkntAB52c",
+    "video": "\u003cstyle\u003e.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}\u003c/style\u003e\u003cdiv class\u003d\"h_iframe-aparat_embed_frame\"\u003e\u003cspan style\u003d\"display: block;padding-top: 57%\"\u003e\u003c/span\u003e\u003ciframe src\u003d\"https://www.aparat.com/video/video/embed/videohash/iR76c/vt/frame\" allowFullScreen\u003d\"true\" webkitallowfullscreen\u003d\"true\" mozallowfullscreen\u003d\"true\"\u003e\u003c/iframe\u003e\u003c/div\u003e",
     "text2": "🤣🤣😆"
   },
   {
