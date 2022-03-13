@@ -3,7 +3,7 @@
     "text": "آموزش ساخت خانه خفن ولی ساده",
     "image": "https://up.20script.ir/file/c3cb-VideoCapture-۲۰۲۲۰۳۱۳-۱۵۵۱۵۴.jpg",
     "video": "\u003cdiv id\u003d\"29903585282\"\u003e\u003cscript type\u003d\"text/JavaScript\" src\u003d\"https://www.aparat.com/embed/QAS4n?data[rnddiv]\u003d29903585282\u0026data[responsive]\u003dyes\"\u003e\u003c/script\u003e\u003c/div\u003e",
-    "text2": "🙃"
+    "text2": "امیدوارم از این آموزش خوشتان آمده باشه"
   },
   {
     "text": "آموزش ساخت خفن بزرگ",
